@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  Countrys
+
+  Created by Umaruun on 3/16/21.
+  
+*/
+
+
+"login" = "LOGIN";
+"err" = "Error";
+"ok" = "OK";
+"cyi" = "Please Check your Internet Connection";
+"usr" = "Username";
+"pass" = "Password";
+"fetch" = "Fetching Data";
+"area =" = "Area =";
+"countries" = "Countries";
+"a2c =" = "Alpha 2 Code =";
+"a3c =" = "Alpha 3 Code =";
+"curCode =" = "Currency Code =";
+"curSym =" = "Currency Symbol =";
+"lat =" = "Latitude =";
+"long =" = "Longitude =";
+"nName =" = "Native Name =";
+"nLang =" = "Native Language =";
+"reg =" = "Region =";
+"subReg =" = "Sub Region =";
+"noInternet" = "Opps, No Internet Connection!";
+"tryAgain" = "TRY AGAIN";
+"signInGoolge" = "Sign in with Google";
+"areYouSure" = "Are you sure you want to Logout?";

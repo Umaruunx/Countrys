@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  Countrys
+
+  Created by Umaruun on 3/16/21.
+  
+*/
+
+"LOGIN" = "ログインする";
+"Error" = "エラー";
+"OK" = "OK";
+"Please Check your Internet Connection" = "インターネット接続を確認してください";
+"Username" = "ユーザー名";
+"Password" = "パスワード";
+"Fetching Data" = "データの取得";
+"Area =" = "範囲 = ";
+"Countries" = "国";
+"Alpha 2 Code =" = "アルファ2コード = ";
+"Alpha 3 Code =" = "アルファ3コード = ";
+"Currency Code =" = "通貨コード = ";
+"Currency Symbol =" = "通貨記号 = ";
+"Latitude =" = "緯度 = ";
+"Longitude =" = "経度 = ";
+"Native Name =" = "ネイティブ名 = ";
+"Native Language =" = "母国語 = ";
+"Region =" = "領域 = ";
+"Sub Region =" = "サブリージョン = ";
+"Opps, No Internet Connection!" = "Opps、インターネット接続なし!";
+"TRY AGAIN" = "再試行する";
+"signInGoolge" = "Googleでサインイン";
+"areYouSure" = "ログアウトしてもよろしいですか?";
